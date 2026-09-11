@@ -1,0 +1,12 @@
+```
+# Office documents
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.odt
+*.ods
+*.odp
+```
